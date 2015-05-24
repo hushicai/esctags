@@ -1,0 +1,2 @@
+# esctags
+javascript ctags
