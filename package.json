@@ -1,0 +1,27 @@
+{
+  "name": "esctags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "bin/esctags",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hushicai/esctags.git"
+  },
+  "author": "hushicai <bluthcy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hushicai/esctags/issues"
+  },
+  "homepage": "https://github.com/hushicai/esctags",
+  "dependencies": {
+    "escodegen": "^1.6.1",
+    "escope": "^1.0.3",
+    "esprima": "^2.2.0",
+    "estraverse": "^4.1.0",
+    "minimist": "^1.1.1"
+  }
+}
