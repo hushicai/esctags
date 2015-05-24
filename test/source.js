@@ -5,7 +5,6 @@
 
 define(
     function (require) {
-        var a = 1;
         var test1 = function () {
             var a = 1;
             var b = 1;
@@ -16,9 +15,9 @@ define(
             }
             return 2;
         };
-        // function test3() {
-            // return 3;
-        // }
+        function test3() {
+            return 3;
+        }
         // var d = {
             // x: 1,
             // y: 2
