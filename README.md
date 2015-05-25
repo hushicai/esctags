@@ -4,5 +4,4 @@ javascript ctags
 
 ## TODO
 
-* constructor?
-* prototype?
+* anoymous function name?
