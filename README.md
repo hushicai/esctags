@@ -52,4 +52,4 @@ a	/Users/hushicai/data/test/esctags-sample/b.js	/^a$/;"	v	line:15	context:b::y::
 c	/Users/hushicai/data/test/esctags-sample/b.js	/^c$/;"	p	line:20	context:b
 ```
 
-It can also work with amdjs and cmdjs.
+It can also work with amdjs and commonjs module.
